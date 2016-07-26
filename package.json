@@ -1,0 +1,28 @@
+{
+  "name": "hapi-version",
+  "version": "0.5.0",
+  "description": "Add a simple route that shows the current version of your dependencies",
+  "main": "lib/index.js",
+  "keywords": [
+    "version",
+    "endpoint",
+    "hapi",
+    "plugin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/failpunk/hapi-version.git"
+  },
+  "author": "Justin Vencel<failpunk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/failpunk/hapi-version/issues"
+  },
+  "homepage": "https://github.com/failpunk/hapi-version#readme",
+  "dependencies": {
+    "lodash": "^4.14.0"
+  }
+}
