@@ -1,0 +1,17 @@
+{
+    "esversion": 6,
+    "validthis": true, // suppress, as sequalize instance and class methods throw this all over
+    "bitwise": true,
+    "curly": true,
+    "eqeqeq": true,
+    "globalstrict": false,
+    "latedef": "nofunc",
+    "noarg": true,
+    "undef": true,
+    "unused": true,
+    "node": true,
+    "globals": {
+        "module": true,
+        "inject": true
+    }
+}
