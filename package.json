@@ -1,6 +1,6 @@
 {
   "name": "hapi-version",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "Add a simple route that shows the current version of your dependencies",
   "main": "lib/index.js",
   "keywords": [
